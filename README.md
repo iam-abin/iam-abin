@@ -32,7 +32,7 @@
     <a href="https://instagram.com/myself_abi__" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
             alt="myself_abi__" height="30" width="40" /></a>
-    <a href="https://www.leetcode.com/abinabi32002" target="blank"><img align="center"
+    <a href="https://leetcode.com/iamabin1100/" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
             alt="abinabi32002" height="30" width="40" /></a>
 </p>
