@@ -98,9 +98,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abin273&show_icons=true&locale=en"
         alt="abin273" /></p>
         <br>
----
-        [![trophy](https://github-profile-trophy.vercel.app/?username=Abin273&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
----
     <br>
 
 ---
