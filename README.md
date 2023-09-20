@@ -23,9 +23,6 @@
     <a href="https://linkedin.com/in/abin-varghese-777150240" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
             alt="abin-varghese-777150240" height="30" width="40" /></a>
-    <a href="https://stackoverflow.com/users/19936802" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"
-            alt="19936802" height="30" width="40" /></a>
     <a href="https://fb.com/abin.varghese.7524" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
             alt="abin.varghese.7524" height="30" width="40" /></a>
@@ -101,6 +98,10 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abin273&show_icons=true&locale=en"
         alt="abin273" /></p>
         <br>
+---
+        [![trophy](https://github-profile-trophy.vercel.app/?username=Abin273&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+---
+    <br>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Abin273&icon=8&color=12)](https://visitcount.itsvg.in)
