@@ -103,4 +103,8 @@
     <br>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Abin273&icon=8&color=12)](https://visitcount.itsvg.in)
+<p align="left">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=Abin273&icon=8&color=12" alt="Visit Count" />
+  </a>
+</p>
