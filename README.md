@@ -103,8 +103,4 @@
     <br>
 
 ---
-<p align="left">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=Abin273&icon=8&color=12" alt="Visit Count" />
-  </a>
-</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Abin273&label=Profile%20views&color=0e75b6&style=flat" alt="Abin273" /> </p>
