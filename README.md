@@ -35,8 +35,8 @@
 </p>
 <br>
 <hr>
-<h3 align="left">Languages and Tools:</h3><br>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2><br>
+<p align="center"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
             alt="aws" width="40" height="40" /> </a> <a href="https://getbootstrap.com" target="_blank"
         rel="noreferrer"> <img
@@ -92,7 +92,7 @@
             alt="typescript" width="40" height="40" /> </a> </p>
         <br>
         <br>
-
+<hr/>
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
@@ -103,7 +103,7 @@
 </div>
 
 <br/><br/>
-<hr/>
+
 
 ---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Abin273&label=Profile%20views&color=0e75b6&style=flat" alt="Abin273" /> </p>
