@@ -93,14 +93,17 @@
         <br>
         <br>
 
-<p><img align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=abin273&show_icons=true&locale=en&layout=compact"
-        alt="abin273" /></p>
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://streak-stats.demolab.com/?user=Abin273&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=Abin273&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abin273&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abin273&show_icons=true&locale=en"
-        alt="abin273" /></p>
-        <br>
-    <br>
+<br/><br/>
+<hr/>
 
 ---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Abin273&label=Profile%20views&color=0e75b6&style=flat" alt="Abin273" /> </p>
