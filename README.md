@@ -36,10 +36,60 @@
 <br>
 <hr>
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2><br>
-<p align="center"> 
-    ![Bootstrap](https://img.shields.io/badge/-Javascript-05122A?style=plastic&logo=Javascript&color=353535) ![Bootstrap](https://img.shields.io/badge/-Typescript-05122A?style=plastic&logo=Typescript&color=353535) ![Bootstrap](https://img.shields.io/badge/-Nodejs-05122A?style=plastic&logo=Nodejs&color=353535) ![Bootstrap](https://img.shields.io/badge/-Express-05122A?style=plastic&logo=Express&color=353535) ![Bootstrap](https://img.shields.io/badge/-MongoDB-05122A?style=plastic&logo=MongoDB&color=353535) ![Bootstrap](https://img.shields.io/badge/-Postman-05122A?style=plastic&logo=Postman&color=353535) ![Bootstrap](https://img.shields.io/badge/-Docker-05122A?style=plastic&logo=Docker&color=353535) ![Bootstrap](https://img.shields.io/badge/-Kubernetes-05122A?style=plastic&logo=Kubernetes&color=353535) ![Bootstrap](https://img.shields.io/badge/-Kafka-05122A?style=plastic&logo=Kafka&color=353535) ![Bootstrap](https://img.shields.io/badge/-Nginx-05122A?style=plastic&logo=Nginx&color=353535) ![Bootstrap](https://img.shields.io/badge/-Git-05122A?style=plastic&logo=Git&color=353535) ![Bootstrap](https://img.shields.io/badge/-Github-05122A?style=plastic&logo=Github&color=353535) ![Bootstrap](https://img.shields.io/badge/-Reactjs-05122A?style=plastic&logo=Reactjs&color=353535) ![Bootstrap](https://img.shields.io/badge/-HTML-05122A?style=plastic&logo=HTML&color=353535) ![Bootstrap](https://img.shields.io/badge/-CSS-05122A?style=plastic&logo=CSS&color=353535) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=plastic&logo=Bootstrap&color=353535) ![Bootstrap](https://img.shields.io/badge/-Figma-05122A?style=plastic&logo=Figma&color=353535) ![Bootstrap](https://img.shields.io/badge/-Firebase-05122A?style=plastic&logo=Firebase&color=353535) ![Bootstrap](https://img.shields.io/badge/-Aws-05122A?style=plastic&logo=Aws&color=353535) ![Bootstrap](https://img.shields.io/badge/-MySQL-05122A?style=plastic&logo=MySQL&color=353535) ![Bootstrap](https://img.shields.io/badge/-PostgreSQL-05122A?style=plastic&logo=PostgreSQL&color=353535) ![Bootstrap](https://img.shields.io/badge/-Linux-05122A?style=plastic&logo=Linux&color=353535) ![Bootstrap](https://img.shields.io/badge/-Java-05122A?style=plastic&logo=Java&color=353535) ![Bootstrap](https://img.shields.io/badge/-Python-05122A?style=plastic&logo=Python&color=353535) ![Bootstrap](https://img.shields.io/badge/-C-05122A?style=plastic&logo=C&color=353535)
-
-     </p>
+<p align="center"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
+            alt="aws" width="40" height="40" /> </a> <a href="https://getbootstrap.com" target="_blank"
+        rel="noreferrer"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
+            alt="bootstrap" width="40" height="40" /> </a> <a href="https://www.cprogramming.com/" target="_blank"
+        rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
+            alt="c" width="40" height="40" /> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer">
+        <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40" /> </a> <a
+        href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
+            alt="css3" width="40" height="40" /> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
+            alt="express" width="40" height="40" /> </a> <a href="https://www.figma.com/" target="_blank"
+        rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40"
+            height="40" /> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img
+            src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" />
+    </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img
+            src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40"
+            height="40" /> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img
+            src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> </a> <a
+        href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+            alt="html5" width="40" height="40" /> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java"
+            width="40" height="40" /> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
+        target="_blank" rel="noreferrer"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+            alt="javascript" width="40" height="40" /> </a> <a href="https://www.linux.org/" target="_blank"
+        rel="noreferrer"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux"
+            width="40" height="40" /> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
+            alt="mongodb" width="40" height="40" /> </a> <a href="https://www.mysql.com/" target="_blank"
+        rel="noreferrer"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
+            alt="mysql" width="40" height="40" /> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx"
+            width="40" height="40" /> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
+            alt="nodejs" width="40" height="40" /> </a> <a href="https://www.postgresql.org" target="_blank"
+        rel="noreferrer"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
+            alt="postgresql" width="40" height="40" /> </a> <a href="https://postman.com" target="_blank"
+        rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman"
+            width="40" height="40" /> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+            alt="python" width="40" height="40" /> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+            alt="react" width="40" height="40" /> </a> <a href="https://www.sqlite.org/" target="_blank"
+        rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40"
+            height="40" /> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
+            alt="typescript" width="40" height="40" /> </a> </p>
         <br>
         <br>
 <hr/>
