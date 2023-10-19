@@ -22,7 +22,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2><br>
   <a  href="https://skillicons.dev">
       <div align="center">
-           <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,mongodb,react,docker,kubernetes,nginx,kafka,rabbitmq,mysql,postgres,git,github,githubactions,postman,redux,html,css,bootstrap,tailwind,redis,aws,figma,firebase,jest,jquery,linux,java" /><br>
+           <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,mongodb,react,redux,docker,kubernetes,nginx,aws,kafka,rabbitmq,mysql,postgres,git,github,githubactions,postman,html,css,bootstrap,tailwind,redis,figma,firebase,jest,jquery,linux,java" /><br>
            <img src="https://skillicons.dev/icons?i=py,c" />
       </div>
    
