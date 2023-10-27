@@ -5,7 +5,7 @@
 
 -   🔭 I’m currently working on **Micro services**
 
--   🌱 I’m currently learning **Microservices,Docker,Kubernetes,kafka,grpc**
+-   🌱 I’m currently learning **Microservices,Docker,Kubernetes,kafka,grpc,socket io**
 
 -   👨‍💻 All of my projects are available at
     [https://github.com/Abin273?tab=repositories](https://github.com/Abin273?tab=repositories)
