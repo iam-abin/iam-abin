@@ -47,7 +47,7 @@
 
 <br/><br/>
 
----
+![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Abin273&label=Profile%20views&color=0e75b6&style=flat" alt="Abin273" /> </p>
 <h2 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&pause=1000&background=74FF7300&center=true&vCenter=true&random=false&width=445&lines=Thanks+for+visiting!+%E2%9C%8C%EF%B8%8F" alt="Typing SVG" /></a></h2>
