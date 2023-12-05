@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abin</h1>
 <u><h2 align="center">Mern stack developer</h2></u><br>
 
+
 <img align="left" style="width: 400px;" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Image Not Found">
 
 -   🔭 I’m currently working on **Micro services**
@@ -18,7 +19,10 @@
 -   ⚡ Fun fact **is there is no fun fact😌**
 
 <br>
-<hr>
+
+
+![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2><br>
   <a  href="https://skillicons.dev">
       <div align="center">
@@ -29,7 +33,9 @@
   </a>
         <br>
         <br>
-<hr/>
+        
+![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
