@@ -40,7 +40,7 @@
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=iam-abin&theme=blue-green&card_width=500" alt="GitHub Streak" /></a><br/>
   <img width=500 src="https://github-readme-stats.vercel.app/api?username=iam-abin&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
-    <img width=450 src="https://github-readme-stats.vercel.app/api/top-langs?username=iam-abin&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia"  alt="7oSkaaa" height="px" border_radius=10 /><br>
+    <img width=450 src="https://github-readme-stats.vercel.app/api/top-langs?username=iam-abin&langs_count=14&show_icons=true&locale=en&layout=compact&theme=algolia"  alt="7oSkaaa" height="px" border_radius=10 /><br>
 </div>
 
 <br/><br/>
