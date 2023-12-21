@@ -27,7 +27,6 @@
            <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,mongodb,react,redux,docker,kubernetes,nginx,aws,kafka,rabbitmq,mysql,postgres,git,github,githubactions,postman,html,css,bootstrap,tailwind,redis,figma,firebase,jest,jquery,linux,java" /><br>
            <img src="https://skillicons.dev/icons?i=go,py,c" />
       </div>
-   
     </a>
 <br>
 <br>
