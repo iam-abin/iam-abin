@@ -22,15 +22,15 @@
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2><br>
-  <a  href="https://skillicons.dev">
+    <a  href="https://skillicons.dev">
       <div align="center">
            <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,mongodb,react,redux,docker,kubernetes,nginx,aws,kafka,rabbitmq,mysql,postgres,git,github,githubactions,postman,html,css,bootstrap,tailwind,redis,figma,firebase,jest,jquery,linux,java" /><br>
            <img src="https://skillicons.dev/icons?i=go,py,c" />
       </div>
    
-  </a>
-        <br>
-        <br>
+    </a>
+<br>
+<br>
         
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
@@ -39,14 +39,18 @@
 <div align=center>
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=iam-abin&theme=blue-green&card_width=500" alt="GitHub Streak" /></a><br/>
   <img width=500 src="https://github-readme-stats.vercel.app/api?username=iam-abin&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-    <img width=450 src="https://github-readme-stats.vercel.app/api/top-langs?username=iam-abin&langs_count=14&show_icons=true&locale=en&layout=compact&theme=algolia"  alt="7oSkaaa" height="px" border_radius=10 /><br>
+<br/>
+    <img width=450 src="https://github-readme-stats.vercel.app/api/top-langs?username=iam-abin&langs_count=14&show_icons=true&locale=en&layout=compact&theme=algolia"  alt="7oSkaaa" height="px" border_radius=10 />
+<br>
 </div>
 
-<br/><br/>
+<br/>
+<br/>
 
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iam-abin&label=Profile%20views&color=0e75b6&style=flat" alt="iam-abin" /> </p>
-<h2 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&pause=1000&background=74FF7300&center=true&vCenter=true&random=false&width=445&lines=Thanks+for+visiting!+%E2%9C%8C%EF%B8%8F" alt="Typing SVG" /></a></h2>
+<h2 align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&pause=1000&background=74FF7300&center=true&vCenter=true&random=false&width=445&lines=Thanks+for+visiting!+%E2%9C%8C%EF%B8%8F" alt="Typing SVG" /></a>
+</h2>
 
