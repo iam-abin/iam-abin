@@ -2,7 +2,7 @@
 <u><h2 align="center">Mern stack developer</h2></u><br>
 
 
-<img align="left" style="width: 400px;" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Image Not Found">
+<img align="left" style="width: 400px; height: 274px" src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*xNQKHj5vR7w9AcY_bDKYYw.gif" alt="Image Not Found">
 
 -   🔭 I’m currently working on **Micro services**
 
