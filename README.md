@@ -38,14 +38,14 @@
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=iam-abin&theme=blue-green&card_width=500" alt="GitHub Streak" /></a><br/>
   <img width=500 src="https://github-readme-stats.vercel.app/api?username=iam-abin&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
 <br/>
-    <img width=450 src="https://github-readme-stats.vercel.app/api/top-langs?username=iam-abin&langs_count=14&show_icons=true&locale=en&layout=compact&theme=algolia"  alt="7oSkaaa" height="px" border_radius=10 />
+    <img width=400 src="https://github-readme-stats.vercel.app/api/top-langs?username=iam-abin&langs_count=14&show_icons=true&locale=en&layout=compact&theme=algolia"  alt="7oSkaaa" height="px" border_radius=10 />
 <br>
 </div>
 
 <br/>
 <br/>
 
-![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+---
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iam-abin&label=Profile%20views&color=0e75b6&style=flat" alt="iam-abin" /> </p>
 <h2 align="center">
