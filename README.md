@@ -1,22 +1,26 @@
 <h1 align="center">Hi 👋, I'm Abin</h1>
-<u><h2 align="center">Mern stack developer</h2></u><br>
+<u><h2 align="center">Mern stack developer</h2></u>
 
 
 <img align="left" style="width: 400px; height: 274px" src="https://i.pinimg.com/originals/2a/53/65/2a53651a35816f499270d8275fd5318f.gif" alt="Image Not Found">
-
--   🔭 I’m currently working on **Micro services**
-
--   🌱 I’m currently learning **Microservices,Docker,Kubernetes,kafka,grpc,socket io**
+How are you doing? :) 
+<br>
+<br>
+<br>
+<br>
 
 -   👨‍💻 All of my projects are available at <a href="https://github.com/iam-abin?tab=repositories" class="button primary">Repositories</a>
+
 -   📫 How to reach me <a href="mailto:abinvarghese273@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" style=" text-align: center"/>
+    <img src="https://img.shields.io/badge/Gmail-333333?style=social&logo=gmail&logoColor=red" style="text-align: center"/>
   </a>
 
 -   💬 Ask me about anything, I am happy to help 😄
+  
 -   ⚡ Fun fact **is there is no fun fact😌**
 
 <br>
+
 
 ---
 
